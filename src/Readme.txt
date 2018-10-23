@@ -1,15 +1,5 @@
 Fire Response Time Simulation
-SYST335
-Dr. Jie Xu
-Group Project
-
-Team Members:
-Andaleeb Hazrah
-Adam Klingaman
-Farzad Nikpanjeh
-Andy Tapia
-Caroline Wagner
-Yuan Yao
+2018 SYST335
 
 Instructions:
 Compile all java files and run mainClass. 
